@@ -5,12 +5,12 @@ app.use(express.json());
 
 
 //Get
-app.get('api/', function(req, res) {
+app.get('/api/products', function(req, res) {
 
 });
 
 //Post
-app.post('api/', function(req, res) {
+app.post('/api/products', function(req, res) {
     
 });
 
