@@ -1,5 +1,5 @@
 const express = require('express');
-const Products = require('./products');
+const Product = require('./products');
 const app = express();
 
 app.use(express.json());
@@ -12,8 +12,13 @@ app.get('/api/products', function (req, res) {
 
 //Post
 app.post('/api/products', async function (req, res) {
-  const doc = await Products.create(req.body);
-  res.send(doc);
+  try {
+    const item = await Product.create(req.body);
+    res.send(item);
+  }
+  catch (e) {
+    res.status(500).send(e);
+  }
 });
 
 
