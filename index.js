@@ -16,5 +16,5 @@ app.post('api/', function(req, res) {
 
 
 app.listen(8080, function() {
-    console.log("Server listening...");
+    console.log("Server listening on port 8080...");
   });
