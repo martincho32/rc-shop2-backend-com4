@@ -1,13 +1,10 @@
 const mongoose = require('./connection');
 
-/**
- * defino el esquema 
- */
-
+//defino el esquema 
 const productSchema = new mongoose.Schema({
     brand: String,
     model: String,
-    description:String,
+    description: String,
     price: Number,
     discountPercentage: Number,
     category: String,
@@ -28,13 +25,8 @@ const productSchema = new mongoose.Schema({
     ]
 }); 
 
-/**
- * compilo y creo el modelo 
- * 
- */
-const Product = mongoose.model('products', productSchema);
+//compilo y creo el modelo 
+const Product = mongoose.model('product', productSchema);
 
-/**
- * exporto el modelo
- */
-module.exports = Product;
+//exporto el modelo
+module.exports =  Product;
