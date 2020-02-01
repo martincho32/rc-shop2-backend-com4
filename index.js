@@ -13,6 +13,18 @@ app.get('/api/products', function (req, res) {
   res.send("OK!");
 });
 
+//GetById
+app.get('/api/products/:itemId', async function (req, res) {
+  try {
+    const id = req.params.itemId
+    const itemById = await Product.findById(id);
+    res.send(itemById);
+  }
+  catch (e) {
+    res.status(500).send(e);
+  }
+});
+
 //Post
 app.post('/api/products', async function (req, res) {
   try {
