@@ -4,6 +4,8 @@ const app = express();
 
 app.use(express.json());
 
+app.use('/img', express.static(__dirname + '/img'));
+
 
 //Get
 app.get('/api/products', function (req, res) {
