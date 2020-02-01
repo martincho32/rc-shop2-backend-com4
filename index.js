@@ -9,8 +9,14 @@ app.use('/img', express.static(__dirname + '/img'));
 
 
 //Get
-app.get('/api/products', function (req, res) {
-  res.send("OK!");
+app.get('/api/products', async function (req, res) {
+  try{
+    const products = await Product.find();
+    res.send(products);
+  }
+  catch (e) {
+    res.status(500).send(e);
+  }
 });
 
 //Post
