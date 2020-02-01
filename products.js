@@ -5,7 +5,24 @@ const productSchema = new mongoose.Schema({
     brand: String,
     model: String,
     description: String,
-    price: Number
+    price: Number,
+    discountPercentage: Number,
+    category: String,
+    features: {
+        inches: String,
+        screenType: String,
+        resolution: String,
+        weigth: String,
+        Bluetooth: String,
+        WiFi: String,
+        guarantee: String
+    },
+    images: [
+        {
+        title: String,
+        path: String
+        }
+    ]
 }); 
 
 //compilo y creo el modelo 

@@ -1,6 +1,7 @@
 const express = require('express');
 const Product = require('./products');
 const app = express();
+const port = 8080;
 
 app.use(express.json());
 
@@ -24,7 +25,6 @@ app.post('/api/products', async function (req, res) {
 });
 
 
-
-app.listen(8080, function () {
-  console.log("Server listening...");
-});
+app.listen(port, function() {
+    console.log(`Server listening on port ${port}...`);
+  });
