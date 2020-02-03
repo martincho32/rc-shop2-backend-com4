@@ -31,6 +31,18 @@ app.get('/api/products/:itemId', async function (req, res) {
   }
 });
 
+//Search by brand (this can be changed to search by other property, we could add a "keywords" property to the schema)
+app.get('/api/products/search', async function(req,res) {
+  try {
+    const regex = new RegExp(req.query.brand, 'gi');
+    const products = await Product.find({brand: regex})
+    res.send(products);
+  }
+  catch (e) {
+    res.status(500).send(e);
+  }
+});
+
 //Post
 app.post('/api/products', async function (req, res) {
   try {
