@@ -1,12 +1,12 @@
-const json = require('./itemsForDB.json');
-const Product = require('./products');
+import { products } from './itemsForDB.json';
+import { remove, insertMany } from './products';
 
 
 async function insertProducts() {
     try {
-        await Product.remove({});
+        await remove({});
         console.log('Se borro completamente');
-        await Product.insertMany(json.products);
+        await insertMany(products);
         process.exit();
     }
     catch (e) {
