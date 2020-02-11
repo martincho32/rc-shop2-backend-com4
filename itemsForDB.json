@@ -19,15 +19,15 @@
             "images": [
                 {
                     "title": "s10",
-                    "path": "cel1.png"
+                    "path": "/img/cel1.png"
                 },
                 {
                     "title": "s10 ",
-                    "path": "cel11.jpg"
+                    "path": "/img/cel11.jpg"
                 },
                 {
                     "title": "s10",
-                    "path": "cel111.jpg"
+                    "path": "/img/cel111.jpg"
                 }
             ]
         },
@@ -50,15 +50,15 @@
             "images": [
                 {
                     "title": "Celu3",
-                    "path": "cel4.png"
+                    "path": "/img/cel4.png"
                 },
                 {
                     "title": "Celu 3",
-                    "path": "cel44.jpg"
+                    "path": "/img/cel44.jpg"
                 },
                 {
                     "title": "Celu 3 ",
-                    "path": "cel444.jpg"
+                    "path": "/img/cel444.jpg"
                 }
             ]
         },
@@ -81,15 +81,15 @@
             "images": [
                 {
                     "title": "cell4",
-                    "path": "cel5.png"
+                    "path": "/img/cel5.png"
                 },
                 {
                     "title": "Celu4",
-                    "path": "cel55.jpg"
+                    "path": "/img/cel55.jpg"
                 },
                 {
                     "title": "Celu4",
-                    "path": "cel555.jpg"
+                    "path": "/img/cel555.jpg"
                 }
             ]
         },
@@ -112,15 +112,15 @@
             "images": [
                 {
                     "title": "Celu 1",
-                    "path": "cel1.png"
+                    "path": "/img/cel1.png"
                 },
                 {
                     "title": "Sony 4k ",
-                    "path": "cel11.jpg"
+                    "path": "/img/cel11.jpg"
                 },
                 {
                     "title": "Sony 4k ",
-                    "path": "cel111.jpg"
+                    "path": "/img/cel111.jpg"
                 }
             ]
         },
@@ -143,11 +143,7 @@
             "images": [
                 {
                     "title": "Sony 4k ",
-                    "path": "tv2.jpg"
-                },
-                {
-                    "title": "Sony 4k ",
-                    "path": "tvs22.jpg"
+                    "path": "/img/smartv.png"
                 }
             ]
         },
@@ -172,11 +168,7 @@
             "images": [
                 {
                     "title": "Sony Smart",
-                    "path": "tv3.png"
-                },
-                {
-                    "title": "Sony 4k ",
-                    "path": "tv33.jpg"
+                    "path": "/img/smartvv.png"
                 }
             ]
         },
@@ -199,11 +191,11 @@
             "images": [
                 {
                     "title": "Notebook HP",
-                    "path": "ntb1.png"
+                    "path": "/img/ntb1.png"
                 },
                 {
                     "title": "Notebook HP",
-                    "path": "ntb22.jpg"
+                    "path": "/img/ntb22.jpg"
                 }
             ]
         },
@@ -226,15 +218,15 @@
               "images": [
                 {
                   "title": "LENOVO NTB",
-                  "path": "ntb44.jpg"
+                  "path": "/img/ntb44.jpg"
                 },
                 {
                   "title": "LENOVO NTB",
-                  "path": "ntb4.png"
+                  "path": "/img/ntb4.png"
                 },
                 {
                   "title": "LENOVO NTB",
-                  "path": "ntb444.jpg"
+                  "path": "/img/ntb444.jpg"
                 }
               ]
         }
