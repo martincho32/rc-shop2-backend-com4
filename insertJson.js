@@ -1,4 +1,4 @@
-const json = require('./products.json');
+const json = require('./itemsForDB.json');
 const Product = require('./products');
 
 
