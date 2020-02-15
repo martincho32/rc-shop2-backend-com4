@@ -229,6 +229,37 @@
                   "path": "/img/ntb444.jpg"
                 }
               ]
+        },
+        {
+            "brand": "Noblex",
+            "model": "DE50X6500",
+            "description": "Tipo de Pantalla:Led. Tipo de TV:Smart TV. Pulgadas:50. Formato de Pantalla:Plana. Resolucion de Video:4K Ultra HD. Resolucion:3840x2160. Relacion de Apescto:16:9. Contraste Dinámico:4.000:1. Brillo:280 Cd/m2. HDR:No. Tiempo de Respuesta:6.5 ms. Frecuencia de Refresco:60 HZ. Norma de Video: PAL-N, PAL-M, NTSC",
+            "price": "29999",
+            "discountPercentage": "0",
+            "category": "Notebook",
+            "features": {
+                "inches": 50,
+                "screenType": "LED",
+                "resolution": "3840x2160",
+                "weigth": 11.5,
+                "Bluetooth": "SI",
+                "WiFi": "NO",
+                "guarantee": "24 MESES"
+              },
+              "images": [
+                {
+                  "title": "NOBLEX 50",
+                  "path": "/img/smartv.png"
+                },
+                {
+                  "title": "NOBLEX 50",
+                  "path": "/img/smartvv.png"
+                },
+                {
+                  "title": "NOBLEX 50",
+                  "path": "/img/smartvvv.png"
+                }
+              ]
         }
     ]
 }
