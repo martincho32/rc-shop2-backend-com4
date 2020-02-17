@@ -4,7 +4,7 @@
             "brand": "Samsung",
             "model": "S10",
             "description": "El celular libre Samsung Galaxy Note 10+ SM-N975F aura glow de 6.7 con una resolución de pantalla Dynamic AMOLED 2280 x 1080 (FHD+). Funciona con sistema operativo Android 9. Procesador de Exynos Octa-core 2x2.73 GHz Mongoose M4 & 2x2.4 GHz Cortex-A75 & 4x1.9 GHz Cortex-A55. Almacenamiento de 512 GB. Con cámara principal de 10 MP, cámara secundaria de 12+12+16+ToF MP. Video UHD 4K (3840 x 2160)@60fps",
-            "price": "69.420",
+            "price": "69420",
             "discountPercentage": "0",
             "category": "Celulares",
             "features": {
@@ -35,7 +35,7 @@
             "brand": "Samsung",
             "model": "A90",
             "description": "El Galaxy A90 cambia tu forma de documentar la vida. La cámara triple se desliza y gira para captar lo que está pasando por delante y por detrás. Ahora tenés una cámara que captura a ambos lados para captar todos tus momentos. La cámara construida para Live. No solo para selfies",
-            "price": "69.420",
+            "price": "69420",
             "discountPercentage": "0",
             "category": "Celular",
             "features": {
@@ -66,7 +66,7 @@
             "brand": "Samsung",
             "model": "A80",
             "description": "Liberado. Pantalla Super AMOLED de 6.7. Cámaras traseras de 48Mpx/8Mpx/0.04Mpx.Cámaras delanteras de 48Mpx/8Mpx 0.04Mpx. Procesador Snapdragon 730 Octa-Core de 2.2GHz con 8GB de RAM. Batería de 3700mAh.Memoria interna de 128GB.Sistema operativo Android 9.0 Pie. Con sensor de huella dactilar.",
-            "price": "69.420",
+            "price": "69420",
             "discountPercentage": "0",
             "category": "Celular",
             "features": {
@@ -97,7 +97,7 @@
             "brand": "Samsung",
             "model": "Note 10",
             "description": "El celular libre Samsung Galaxy Note 10+ SM-N975F aura glow de 6.7\" con una resolución de pantalla Dynamic AMOLED 2280 x 1080 (FHD+). Funciona con sistema operativo Android 9. Procesador de Exynos Octa-core 2x2.73 GHz Mongoose M4 & 2x2.4 GHz Cortex-A75 & 4x1.9 GHz Cortex-A55. Almacenamiento de 512 GB. Con cámara principal de 10 MP, cámara secundaria de 12+12+16+ToF MP. Video UHD 4K (3840 x 2160)@60fps.",
-            "price": "69.420",
+            "price": "69420",
             "discountPercentage": "0.15",
             "category": "Celular",
             "features": {
@@ -128,7 +128,7 @@
             "brand": "Sony",
             "model": "Xbr65a8g",
             "description": "Smart TV OLED (Android TV) 65\" 4K. HDR UHD (3840 x 2160). Potencia 10w + 10w. Sonido Dolby, DTS Digital Surround,Clear Audio+. Wi Fi. HDMI x 4. Bluetooth 4.1. USB x 3. Soporte de sobremesa, Baterías, control remoto, instrucciones, cable de alimentación.",
-            "price": "204.000",
+            "price": "204000",
             "discountPercentage": "0.10",
             "category": "Smart TV",
             "features": {
@@ -151,7 +151,7 @@
             "brand": "Sony",
             "model": "Xbr75x805g",
             "description": "Smart TV (Android TV) 75\" 4K HDR UHD (3840 x 2160). Potencia 10w + 10w. Sonido Dolby, DTS Digital Surround,Clear Audio+. Wi Fi. HDMI x 4. Bluetooth 4.1. USB x 3. Soporte de sobremesa, Baterías, control remoto, instrucciones, cable de alimentación.",
-            "price": "304.000",
+            "price": "304000",
             "discountPercentage": "0.0",
             "category": "Smart TV",
             "features": [
@@ -176,7 +176,7 @@
             "brand": "HP",
             "model": "DC0052LA",
             "description": "Proc.8va Gen.Intel Core i5-8300H QC 2.3Ghz. Mem.RAM 8Gb DDR4. Disco duro 1Tb Sata. Pant.LED 15.6\"FHD. Wi-Fi/Bluetooth 5 combinado. Gráficos Nividia GeForce GTX1050 Ti. Webcam HD c/2 micróf.dig.integ. Sonido Bang & Olufsen. SO Windows 10 Home.",
-            "price": "89.999",
+            "price": "89999",
             "discountPercentage": "0.0",
             "category": "Notebook",
             "features": {
@@ -203,7 +203,7 @@
             "brand": "Lenovo",
             "model": "81LK007GAR",
             "description": "Proc.Intel Core I5-9300H. Mem.RAM 8Gb DDR4. Disco duro 1Tb. Pant.15.6\"FHD IPS. Gráficos GTX1050 3GB G5 96B. Webcam HD 720p. Wi-Fi. Bluetooth 4. HDMI. USB 3.0X2 y 1 tipo C. Teclado iluminado.SO Windows 10 Home.",
-            "price": "69.420",
+            "price": "69420",
             "discountPercentage": "0.0",
             "category": "Notebook",
             "features": {
@@ -236,7 +236,7 @@
             "description": "Tipo de Pantalla:Led. Tipo de TV:Smart TV. Pulgadas:50. Formato de Pantalla:Plana. Resolucion de Video:4K Ultra HD. Resolucion:3840x2160. Relacion de Apescto:16:9. Contraste Dinámico:4.000:1. Brillo:280 Cd/m2. HDR:No. Tiempo de Respuesta:6.5 ms. Frecuencia de Refresco:60 HZ. Norma de Video: PAL-N, PAL-M, NTSC",
             "price": "29999",
             "discountPercentage": "0",
-            "category": "Notebook",
+            "category": "smart tv",
             "features": {
                 "inches": 50,
                 "screenType": "LED",
@@ -260,6 +260,69 @@
                   "path": "/img/smartvvv.png"
                 }
               ]
+        },
+        {
+            "brand": "Philiph",
+            "model": "49PFG5102/77",
+            "description": "Tipo de Pantalla:Led. Tipo de TV:Smart TV. Pulgadas:49. Formato de Pantalla:Plana. Resolucion de Video:Full HD. Resolucion:1920x1080. Relacion de Apescto:16:9.Brillo:280 cd/m2. Frecuencia de Refresco:240 HZ. Norma de Video: NTSC, PAL-M, PAL-N",
+            "price": "31999",
+            "discountPercentage": "0",
+            "category": "smart tv",
+            "features": {
+                "inches": 49,
+                "screenType": "LED",
+                "resolution": "1920x1080",
+                "weigth": 11.3,
+                "Bluetooth": "SI",
+                "WiFi": "SI",
+                "guarantee": "24 MESES"
+              },
+              "images": [
+                {
+                  "title": "Philips 49",
+                  "path": "/img/tvsmar.jpg"
+                },
+                {
+                  "title": "Philips 49",
+                  "path": "/img/4kuhd.jpg"
+                },
+                {
+                  "title": "Philips 49",
+                  "path": "/img/4kuhdsmart.jpg"
+                }
+              ]
+        },
+        {
+            "brand": "Samsung",
+            "model": "UN32J4290AGCZB",
+            "description": "Tipo de Pantalla:Led. Tipo de TV:Smart TV. Pulgadas:32. Formato de Pantalla:Plana. Resolucion de Video:Full HD. Resolucion:1366x768. Relacion de Apescto:16:9. Frecuencia de Refresco:60 HZ. Norma de Video: NTSC, PAL-M, PAL-N",
+            "price": "17999",
+            "discountPercentage": "0",
+            "category": "smart tv",
+            "features": {
+                "inches": 32,
+                "screenType": "LED",
+                "resolution": "1366x768",
+                "weigth": 3.8,
+                "Bluetooth": "SI",
+                "WiFi": "NO",
+                "guarantee": "24 MESES"
+              },
+              "images": [
+                {
+                  "title": "Samsung 32",
+                  "path": "/img/123.jpg"
+                },
+                {
+                  "title": "Samsung 32",
+                  "path": "/img/321.jpg"
+                },
+                {
+                  "title": "Samsung 32",
+                  "path": "/img/aver.jpg"
+                }
+              ]
         }
+        
     ]
 }
