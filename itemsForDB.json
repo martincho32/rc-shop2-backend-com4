@@ -322,7 +322,196 @@
                   "path": "/img/aver.jpg"
                 }
               ]
+        },
+        {
+            "brand": "Philco",
+            "model": "CODC175306E137000",
+            "description": "Smart TV. Pantalla 32 Resolución 1366x768. Contraste 3000:1. Frecuencia de refresco 60Hz. Potencia 10W. HDMI x 2. USB. A/V. Sintonizador Digital TDA. WiFi. Video compuesto. Video por componentes.",
+            "price": "13999",
+            "discountPercentage": "0",
+            "category": "full hd",
+            "features": {
+                "inches": 32,
+                "screenType": "LED",
+                "resolution": "1366x768",
+                "weigth": 4.9,
+                "Bluetooth": "NO",
+                "WiFi": "NO",
+                "guarantee": "24 MESES"
+              },
+              "images": [
+                {
+                  "title": "Philco 32",
+                  "path": "/img/aver.jpg"
+                },
+                {
+                  "title": "Philco 32",
+                  "path": "/img/aver2.jpg"
+                },
+                {
+                  "title": "Philco 32",
+                  "path": "/img/aver.jpg"
+                }
+              ]
+        },
+        {
+            "brand": "Hisense",
+            "model": "CODC174176E137133",
+            "description": "Led Smart diseño ultradelgado. 32 HD. Procesador Quad Core. HDMI. USB. Wi Fi. Entradas p/audio y video. Salida p/auriculares y audio digital multicanal. Audio 2x5W. Netflix. YouTube. Control remoto",
+            "price": "14249",
+            "discountPercentage": "0",
+            "category": "full hd",
+            "features": {
+                "inches": 32,
+                "screenType": "LED",
+                "resolution": "1366x768",
+                "weigth": 4.4,
+                "Bluetooth": "NO",
+                "WiFi": "SI",
+                "guarantee": "24 MESES"
+              },
+              "images": [
+                {
+                  "title": "Hisense 32",
+                  "path": "/img/4kuhd.jpg"
+                },
+                {
+                  "title": "Hisense 32",
+                  "path": "/img/4kuhdsmart.jpg"
+                },
+                {
+                  "title": "Hisense 32",
+                  "path": "/img/aver.jpg"
+                }
+              ]
+        },
+        {
+            "brand": "LG",
+            "model": "43UM7360PSA",
+            "description": "AI Smart, una nueva forma de Smart evolucionada por AIResolución 4K con un nuevo estándar de alta definiciónInmersión real con amplio ángulo de visiónProcesador Quad CoreTrue Color Accuracy4K Active HDR para detalles increíbles",
+            "price": "34999",
+            "discountPercentage": "0",
+            "category": "full hd",
+            "features": {
+                "inches": 43,
+                "screenType": "LED",
+                "resolution": "3840X2160",
+                "weigth": 6.10,
+                "Bluetooth": "SI",
+                "WiFi": "SI",
+                "guarantee": "24 MESES"
+              },
+              "images": [
+                {
+                  "title": "LG 43",
+                  "path": "/img/321.jpg"
+                },
+                {
+                  "title": "LG 43",
+                  "path": "/img/123.jpg"
+                },
+                {
+                  "title": "LG 43",
+                  "path": "/img/aver.jpg"
+                }
+              ]
+        },
+        {
+            "brand": "BGH",
+            "model": "B4318FH5",
+            "description": "Smart Tv 43. Resolución FHD 1920x1080. Entradas HDMI y puertos USB disponibles. Sintonizador digital incorporado con funcion PVR y Timeshift para grabar tus programas favoritos. Wi-fi. Netflix, Youtube y Vewd (ex Opera store).",
+            "price": "21.899",
+            "discountPercentage": "0",
+            "category": "tv por marcas",
+            "features": {
+                "inches": 43,
+                "screenType": "LED",
+                "resolution": "1920x1080",
+                "weigth": 6.10,
+                "Bluetooth": "SI",
+                "WiFi": "SI",
+                "guarantee": "24 MESES"
+              },
+              "images": [
+                {
+                  "title": "BGH 43",
+                  "path": "/img/321.jpg"
+                },
+                {
+                  "title": "BGH 43",
+                  "path": "/img/123.jpg"
+                },
+                {
+                  "title": "BGH 43",
+                  "path": "/img/aver.jpg"
+                }
+              ]
+        },
+        {
+            "brand": "TCL",
+            "model": "L50P65",
+            "description": "Smart TV de 50 4K. Resolución UHD 3840 x 2160. Aplicaciones: Neflix certificado, Youtube certificado, Certificado T-Cast. Dolby Audio. HDR. Micro Dimming.",
+            "price": "29499",
+            "discountPercentage": "0",
+            "category": "tv por marcas",
+            "features": {
+                "inches": 50,
+                "screenType": "LED",
+                "resolution": "3840X2160",
+                "weigth": 10.3,
+                "Bluetooth": "NO",
+                "WiFi": "SI",
+                "guarantee": "24 MESES"
+              },
+              "images": [
+                {
+                  "title": "TLC 50",
+                  "path": "/img/smartv.png"
+                },
+                {
+                  "title": "TLC 50",
+                  "path": "/img/smartvv.png"
+                },
+                {
+                  "title": "TLC 50",
+                  "path": "/img/smartvvv.png"
+                }
+              ]
+        },
+        {
+            "brand": "Sanyo",
+            "model": "LCE50SU9200",
+            "description": "Smart 50. 4K UHD. Resolucion 3840 x 2160. Potencia de parlantes 8 W RMS (x2). HDMI x 3. USB x 2. WiFi. Puerto de red. Youtube. Apto Netflix. Navegacion intermnet. Salida de audio optico digital. Medidas Vesa 200 x200.",
+            "price": "27607",
+            "discountPercentage": "0",
+            "category": "full hd",
+            "features": {
+                "inches": 50,
+                "screenType": "LED",
+                "resolution": "1920X1200",
+                "weigth": 9.7,
+                "Bluetooth": "NO",
+                "WiFi": "SI",
+                "guarantee": "24 MESES"
+              },
+              "images": [
+                {
+                  "title": "Sanyo 50",
+                  "path": "/img/321.jpg"
+                },
+                {
+                  "title": "Sanyo 50",
+                  "path": "/img/4kuhdsmart.jpg"
+                },
+                {
+                  "title": "Sanyo 50",
+                  "path": "/img/aver.jpg"
+                }
+              ]
         }
+
+        
+        
         
     ]
 }
