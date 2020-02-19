@@ -484,7 +484,7 @@
             "description": "Smart 50. 4K UHD. Resolucion 3840 x 2160. Potencia de parlantes 8 W RMS (x2). HDMI x 3. USB x 2. WiFi. Puerto de red. Youtube. Apto Netflix. Navegacion intermnet. Salida de audio optico digital. Medidas Vesa 200 x200.",
             "price": "27607",
             "discountPercentage": "0",
-            "category": "full hd",
+            "category": "tv por marcas",
             "features": {
                 "inches": 50,
                 "screenType": "LED",
@@ -508,7 +508,633 @@
                   "path": "/img/aver.jpg"
                 }
               ]
+        },
+        {
+          "brand": "Samsung",
+          "model": "GALAXY J2 CORE_SM-J260MZDAARO",
+          "description": "Tecnología de Navegación: 4G. Tipo de Sensor: Accelerometer Proximity.  Color: Dorado . Resistente al agua: No. Lector de huellas: No",
+          "price": "11499",
+          "discountPercentage": "0",
+          "category": "celurares liberados",
+          "features": {
+              "inches": 5,
+              "internal memory": "8 GB",
+              "resolution": "540x960",
+              "Ram": "1 GB",
+              "Bluetooth": "SI",
+              "WiFi": "SI",
+              "guarantee": "24 MESES"
+            },
+            "images": [
+              {
+                "title": "GALAXY J2",
+                "path": "/img/cel1.png"
+              },
+              {
+                "title": "GALAXY J2",
+                "path": "/img/cel2.png"
+              },
+              {
+                "title": "GALAXY J2",
+                "path": "/img/cel4.png"
+              }
+            ]
+        },
+        {
+          "brand": "Samsung",
+          "model": "Galaxy A30",
+          "description": "Tecnología de Navegación: 4G. Tipo de Sensor: Accelerometer Proximity.  Color: Azul . Resistente al agua: No. Lector de huellas: No",
+          "price": "25999",
+          "discountPercentage": "0",
+          "category": "celurares liberados",
+          "features": {
+              "inches": 6.4,
+              "internal memory": "32 GB",
+              "resolution": "2340x1080",
+              "Ram": "3 GB",
+              "Bluetooth": "SI",
+              "WiFi": "SI",
+              "guarantee": "24 MESES"
+            },
+            "images": [
+              {
+                "title": "GALAXY A30",
+                "path": "/img/cel5.png"
+              },
+              {
+                "title": "GALAXY A30",
+                "path": "/img/cel6.png"
+              },
+              {
+                "title": "GALAXY A30",
+                "path": "/img/cel11.png"
+              }
+            ]
+        },
+        {
+          "brand": "Samsung",
+          "model": "A10",
+          "description": "Tecnología de Navegación: 4G. Tipo de Sensor: Accelerometer Proximity Ambient Light.  Color: Negro . Resistente al agua: No. Lector de huellas: No",
+          "price": "16499",
+          "discountPercentage": "0",
+          "category": "celurares liberados",
+          "features": {
+              "inches": 6.2,
+              "internal memory": "32 GB",
+              "resolution": "720x1520",
+              "Ram": "2 GB",
+              "Bluetooth": "SI",
+              "WiFi": "SI",
+              "guarantee": "24 MESES"
+            },
+            "images": [
+              {
+                "title": "A10",
+                "path": "/img/cel22.png"
+              },
+              {
+                "title": "A10",
+                "path": "/img/cel44.png"
+              },
+              {
+                "title": "A10",
+                "path": "/img/cel55.png"
+              }
+            ]
+        },
+        {
+          "brand": "Tagwood",
+          "model": "ICHAR 32",
+          "description": "Cargador de pared c/ doble puerto USB. Ideal p/ Smartphones y Tablets. Voltaje universal de 100V-240V. (Optimizado para Apple). Salida (CC) 5.0V - 3400 mA. USB1 2400mA-USB2 1000mA. Incluye cable plano anti-enredos micro USB de 50 cm",
+          "price": "283",
+          "discountPercentage": "0",
+          "category": "cargadores portatiles",
+          "features": {
+              "origin":"china",
+              "guarantee": "12 MESES"
+            },
+            "images": [
+              {
+                "title": "ICHAR 32",
+                "path": "/img/ichar-32.jpg"
+              },
+              {
+                "title": "ICHAR 32",
+                "path": "/img/ichar-32-2.jpg"
+              },
+              {
+                "title": "ICHAR 32",
+                "path": "/img/ichar-32-3.jpg"
+              }
+            ]
+        },
+        {
+          "brand": "Tagwood",
+          "model": "ICHAR 34",
+          "description": "Cargador de pared c/ 4 puertos USB. Ideal p/ Smartphones y Tablets. Voltaje universal de 100V-240V. Salida (CC) 5.0V - 5000 mA. (Optimizado para Apple). Incluye cable plano anti-enredos micro USB de 50 cm",
+          "price": "366",
+          "discountPercentage": "0",
+          "category": "cargadores portatiles",
+          "features": {
+              "origin": "China",
+              "guarantee": "12 MESES"
+            },
+            "images": [
+              {
+                "title": "ICHAR 34",
+                "path": "/img/ichar34.jpg"
+              },
+              {
+                "title": "ICHAR 34",
+                "path": "/img/icharr34.jpg"
+              },
+              {
+                "title": "ICHAR 34",
+                "path": "/img/icharrr34.jpg"
+              }
+            ]
+        },
+        {
+          "brand": "Noganet",
+          "model": "NGA 352",
+          "description": "Cargador rápido USB. Incluye cable con salida Micro USB. Funciones de protección contra cortocircuito y sobrecarga de corriente . Entrada: 220V-300mA. Salida 5V -2A. Frecuencia 50/60 Hz. 2 Puertos USB para recarga (Android/IOS)",
+          "price": "88",
+          "discountPercentage": "0",
+          "category": "cargadores portatiles",
+          "features": {
+              
+            },
+            "images": [
+              {
+                "title": "NGA 352",
+                "path": "/img/nga-352.jpg"
+              },
+              {
+                "title": "NGA 352",
+                "path": "/img/nga-352-2.jpg"
+              },
+              {
+                "title": "NGA 352",
+                "path": "/img/nga-352-3.jpg"
+              }
+            ]
+        },
+        {
+          "brand": "HP",
+          "model": "14-cm0045la AMD A4",
+          "description": "sistema operativo: windows 10 home. procesador: AMD A4-9125. pantalla: 14-0 diagonal HD SVA brightview con luz fondo WLED",
+          "price": "26999",
+          "discountPercentage": "0",
+          "category": "notebook",
+          "features": {
+              "inches": 14,
+              "resolution": "1366x768",
+              "Ram": "4 GB",
+              "Bluetooth": "SI",
+              "WiFi": "SI",
+              "guarantee": "24 MESES"
+            },
+            "images": [
+              {
+                "title": "HP",
+                "path": "/img/ntb1.png"
+              },
+              {
+                "title": "HP",
+                "path": "/img/ntb2.Jpg"
+              },
+              {
+                "title": "HP",
+                "path": "/img/ntb4.png"
+              }
+            ]
+        },
+        {
+          "brand": "EXO",
+          "model": "WINGS K1822",
+          "description": "2 En 1 desmontable. Proc.Intel Atom x5-Z8300 Quad Core. SO Windows 10 Home. Memoria int.32Gb, RAM 2Gb. Pant.IPS 10.1 . multitouch (1280x800). Wi-Fi. Bluetooth. Webcam 2Mp. Micro HDMI/Micro USB/USB 3.0 tipo C/DC-Jack/Auricular 3.5mm. Bateria 7500mAh",
+          "price": "15999",
+          "discountPercentage": "0",
+          "category": "notebook",
+          "features": {
+              "inches": 10.1,
+              "resolution": "1280x800",
+              "Ram": "2 GB",
+              "Bluetooth": "SI",
+              "WiFi": "SI",
+              "guarantee": "24 MESES"
+            },
+            "images": [
+              {
+                "title": "EXO",
+                "path": "/img/ntb5.png"
+              },
+              {
+                "title": "EXO",
+                "path": "/img/ntb22.jpg"
+              },
+              {
+                "title": "EXO",
+                "path": "/img/ntb44.jpg"
+              }
+            ]
+        },
+        {
+          "brand": "Acer",
+          "model": "A314-31C1ZW",
+          "description": "Proc. Intel Celeron DN3350. Velocidad Proc. 1.10GHz. Pantalla HD 14. Capacidad 500Gb / RAM 4Gb. Camara web. Microfono incorporado. Placa de video UMA. Entrada p/microfono. Wi Fi. USB. HDMI. S.O. Windows 10 Home. Bateria 2 celdas 4.8",
+          "price": "26099",
+          "discountPercentage": "0",
+          "category": "notebook",
+          "features": {
+              "inches": 14,
+              "resolution": "1920x1080",
+              "Ram": "4 GB",
+              "Bluetooth": "SI",
+              "WiFi": "SI",
+              "guarantee": "24 MESES"
+            },
+            "images": [
+              {
+                "title": "acer",
+                "path": "/img/ntb55.jpg"
+              },
+              {
+                "title": "acer",
+                "path": "/img/ntb222.jpg"
+              },
+              {
+                "title": "acer",
+                "path": "/img/ntb444.jpg"
+              }
+            ]
+        },
+        {
+          "brand": "Samsung",
+          "model": "A T510",
+          "description": "Pantalla TFT de10.1. Resolución 1920x1200 (WUXGA). Procesador Octa core 1.6Ghz. SO Android. Almacenamiento 32Gb, RAM 2Gb. Camara posterior 8 Mp.  autofoco. Frontal 5Mp. Wi-Fi.Bluetooth 5.0. Gps",
+          "price": "23999",
+          "discountPercentage": "0",
+          "category": "tablets",
+          "features": {
+              "inches": 10.1,
+              "internal memory": "32 GB",
+              "resolution": "1920x1200",
+              "Ram": "2 GB",
+              "Bluetooth": "SI",
+              "WiFi": "SI",
+              "guarantee": "24 MESES"
+            },
+            "images": [
+              {
+                "title": "A T510",
+                "path": "/img/tablet1.jpg"
+              },
+              {
+                "title": "A T510",
+                "path": "/img/tablet2.jpg"
+              },
+              {
+                "title": "A T510",
+                "path": "/img/tablet3.jpg"
+              }
+            ]
+        },
+        {
+          "brand": "TCL",
+          "model": "LT7M",
+          "description": "Pantalla 7. Procesador Quad Core. Velocidad 1.3 GHz. SO Android Oreo (Go Edition). Capacidad 16Gb / RAM 1Gb. Lector tarjeta h/128Gb. Camara prinicpal 5MP/frontal 2MP. Wi Fi / GPS / Bluetooth 4.2 / Radio. Bateria 2580 mAh 3 celdas,duracion Standby 430hs.",
+          "price": "5.999",
+          "discountPercentage": "0",
+          "category": "tablets",
+          "features": {
+              "inches": 7,
+              "internal memory": "16 GB",
+              "resolution": "720x1520",
+              "Ram": "1 GB",
+              "Bluetooth": "SI",
+              "WiFi": "SI",
+              "guarantee": "12 MESES"
+            },
+            "images": [
+              {
+                "title": "LT7M",
+                "path": "/img/tablet4.jpg"
+              },
+              {
+                "title": "LT7M",
+                "path": "/img/tablet11.jpg"
+              },
+              {
+                "title": "LT7M",
+                "path": "/img/tablet22.jpg"
+              }
+            ]
+        },
+        {
+          "brand": "ALCATEL",
+          "model": "1T 8020",
+          "description": "Pant.LCD 10.1. IPS 1280x800. Proc.Quad Core 1.3Ghz. SO Android Oreo 8.1. Memoria int.16Gb/RAM 1Gb. Slot p/micro SD h/128Gb. Cámaras 5.0Mp/2Mp. Wi-Fi: Direct/Hotspotss. Bluetooth. Multitouch. Micro USB 2.0. Bateria 4000mAh. Incluye teclado y funda",
+          "price": "11.999",
+          "discountPercentage": "0",
+          "category": "tablets",
+          "features": {
+              "inches": 10.1,
+              "internal memory": "16 GB",
+              "resolution": "1280x800",
+              "Ram": "1 GB",
+              "Bluetooth": "SI",
+              "WiFi": "SI",
+              "guarantee": "12 MESES"
+            },
+            "images": [
+              {
+                "title": "1T 8020",
+                "path": "/img/tablet33.jpg"
+              },
+              {
+                "title": "1T 8020",
+                "path": "/img/tablet44.jpg"
+              },
+              {
+                "title": "1T 8020",
+                "path": "/img/tablet111.jpg"
+              }
+            ]
+        },
+        {
+          "brand": "WHIRPOOL",
+          "model": "WRA09B1",
+          "description": "Nueva línea de heladeras bajo mesada con congelador. Se caracteriza por su diseño vintage (basado en los años 50) con tecnología contemporánea",
+          "price": "29899",
+          "discountPercentage": "0",
+          "category": "heladeras con freezer",
+          "features": {
+              "height": 80,
+              "widht":51,
+              "weigh": 30,
+              "freezer": "SI",
+              "Can Holder": "SI",
+              "guarantee": "12 MESES"
+            },
+            "images": [
+              {
+                "title": "WHIRPOOL",
+                "path": "/img/whirpool.jpg"
+              },
+              {
+                "title": "WHIRPOOL",
+                "path": "/img/whirpool-3.png"
+              },
+              {
+                "title": "WHIRPOOL",
+                "path": "/img/whirpool-2.jpg"
+              }
+            ]
+        },
+        {
+          "brand": "GAFA",
+          "model": "HGF367AFB",
+          "description": "Heladera Cíclica Blanca 334 Lts (76 Lts Freezer)",
+          "price": "32999",
+          "discountPercentage": "0",
+          "category": "heladeras con freezer",
+          "features": {
+              "height": 161,
+              "widht":61,
+              "weigh": 62,
+              "freezer": "SI",
+              "Can Holder": "SI",
+              "guarantee": "12 MESES"
+            },
+            "images": [
+              {
+                "title": "GAFA",
+                "path": "/img/gafa.jpg"
+              },
+              {
+                "title": "GAFA",
+                "path": "/img/gafa-2.jpg"
+              },
+              {
+                "title": "GAFA",
+                "path": "/img/gafa-3.jpg"
+              }
+            ]
+        },
+        {
+          "brand": "ELECTROLUX",
+          "model": "DW42X",
+          "description": "Diseño sofisticado e innovador con manija de metal. Control de temperatura externo blue touch. Dispenser de agua. Accesorio 2 en 1: porta latas + bandeja multiuso. Anaquel del congelador retráctil-",
+          "price": "59999",
+          "discountPercentage": "0",
+          "category": "heladeras con freezer",
+          "features": {
+              "height": 178,
+              "widht":60,
+              "weigh": 67,
+              "freezer": "SI",
+              "Can Holder": "SI",
+              "guarantee": "12 MESES"
+            },
+            "images": [
+              {
+                "title": "ELECTROLUX",
+                "path": "/img/electrolux.jpg"
+              },
+              {
+                "title": "ELECTROLUX",
+                "path": "/img/electrolux-2.jpg"
+              },
+              {
+                "title": "ELECTROLUX",
+                "path": "/img/electrolux-3.jpg"
+              }
+            ]
+        },
+        {
+          "brand": "AURORA",
+          "model": "8514",
+          "description": "Capacidad 8Kg.1400 rpm. Tecnologia Inverter. 35 Programas. Display LED. Sistema inteligente de temperatura. Balance dinamico. Aviso sonoro de fin de ciclo. Indicacion de avance de programa. 1/2 carga/carga autoadaptiva",
+          "price": "36999",
+          "discountPercentage": "0",
+          "category": "lavarropas automaticos",
+          "features": {
+              "height": 85.5,
+              "widht": 59.5,
+              "weigh": 72,
+              "quick wash": "SI",
+              "steel drum": "SI",
+              "guarantee": "12 MESES"
+            },
+            "images": [
+              {
+                "title": "AURORA",
+                "path": "/img/aurora.jpg"
+              },
+              {
+                "title": "AURORA",
+                "path": "/img/aurora-2.jpg"
+              },
+              {
+                "title": "AURORA",
+                "path": "/img/aurora-3.jpg"
+              }
+            ]
+        },
+        {
+          "brand": "DREAN",
+          "model": "NEXT 10-12 PG",
+          "description": "Sistema de lavado de alta eficiencia (SLAE). Carga Superior. 5-5 kg. de capacidad. Tambor y cuba inoxidables. Polycron Blanco. Comando Superior. Motor Termoprotegido. Bomba de desagote. 8 programas AUTOMATICOS de Lavado y Enjuague ECO",
+          "price": "12999",
+          "discountPercentage": "0",
+          "category": "lavarropas automaticos",
+          "features": {
+              "height": 85.5,
+              "widht": 64,
+              "weigh": 72,
+              "quick wash": "NO",
+              "steel drum": "SI",
+              "guarantee": "12 MESES"
+            },
+            "images": [
+              {
+                "title": "DREAN",
+                "path": "/img/dream.jpg"
+              },
+              {
+                "title": "DREAN",
+                "path": "/img/drean-2.jpg"
+              },
+              {
+                "title": "DREAN",
+                "path": "/img/drean-3.jpg"
+              }
+            ]
+        },
+        {
+          "brand": "ELECTROLUX",
+          "model": "ELAC210W",
+          "description": "Automatico. Carga Sup. Cap.10Kg. Sistema Fuzzy. 7 Programas. 750 rpm. Lavado rapido / diferido. Controles digitales. Tambor de ac. inoxidable. Funcion limpieza de tambor. Reg. temperatura. 1/2 carga. Doble entrada de agua. Puerta vidrio templado. EE A+",
+          "price": "36133",
+          "discountPercentage": "0",
+          "category": "lavarropas automaticos",
+          "features": {
+              "height": 102.6,
+              "widht": 60,
+              "weigh": 41,
+              "quick wash": "SI",
+              "steel drum": "SI",
+              "guarantee": "12 MESES"
+            },
+            "images": [
+              {
+                "title": "ELECTROLUX",
+                "path": "/img/lavarropa-electrolux.jpg"
+              },
+              {
+                "title": "ELECTROLUX",
+                "path": "/img/lavarropa-electrolux-2.jpg"
+              },
+              {
+                "title": "ELECTROLUX",
+                "path": "/img/lavarropa-electrolux-3.jpg"
+              }
+            ]
+        },
+        {
+          "brand": "SURREY",
+          "model": "UCVE18R8F1",
+          "description": "AA SURREY VENTANA UCVE18R8F1 4455 Kcal/hora Frio Solo Gas refrigerante ecologico R410 eficiencia energética A en Refrigeracion GABINETE DESLIZABLE y Bajo nivel sonoro control remoto. Funcion: Sw",
+          "price": "29999",
+          "discountPercentage": "0",
+          "category": "aires acondicionados",
+          "features": {
+              "height": 51.5,
+              "widht": 81.5,
+              "weigh": 63,
+              "cold only": "SI",
+              "cold hot": "NO",
+              "guarantee": "12 MESES"
+            },
+            "images": [
+              {
+                "title": "SURREY",
+                "path": "/img/surrey.png"
+              },
+              {
+                "title": "SURREY",
+                "path": "/img/surrey-2.jpg"
+              },
+              {
+                "title": "SURREY",
+                "path": "/img/surrey-3.jpg"
+              }
+            ]
+        },
+        {
+          "brand": "MARSHALL",
+          "model": "MAS25C18N",
+          "description": "Split Frio solo de 2600W. Timer programable. Display LCD oculto. Función Sleep. Barrido de aire automático. Filtros lavables. Super silencioso. Refrigerante ecológico R410A. Eficiencia Energética A. Control remoto multifunción",
+          "price": "22999",
+          "discountPercentage": "0",
+          "category": "aires acondicionados",
+          "features": {
+              "height": 27.5,
+              "widht": 79,
+              "weigh": 9,
+              "cold only": "SI",
+              "cold hot": "NO",
+              "guarantee": "12 MESES"
+            },
+            "images": [
+              {
+                "title": "MARSHALL",
+                "path": "/img/marshall.jpg"
+              },
+              {
+                "title": "MARSHALL",
+                "path": "/img/marshall-2.png"
+              },
+              {
+                "title": "MARSHALL",
+                "path": "/img/marshall-3.jpg"
+              }
+            ]
+        },
+        {
+          "brand": "MIDEA",
+          "model": "MSBC-12C-01F",
+          "description": "Split Frio solo de 2600W. Timer programable. Display LCD oculto. Función Sleep. Barrido de aire automático. Filtros lavables. Super silencioso. Refrigerante ecológico R410A. Eficiencia Energética A. Control remoto multifunción",
+          "price": "26.349",
+          "discountPercentage": "0",
+          "category": "aires acondicionados",
+          "features": {
+              "height": 28.5,
+              "widht": 80.5,
+              "weigh": 8.6,
+              "cold only": "SI",
+              "cold hot": "NO",
+              "guarantee": "12 MESES"
+            },
+            "images": [
+              {
+                "title": "MIDEA",
+                "path": "/img/midea.jpg"
+              },
+              {
+                "title": "MIDEA",
+                "path": "/img/midea-2.jpg"
+              },
+              {
+                "title": "MIDEA",
+                "path": "/img/midea-3.jpg"
+              }
+            ]
         }
+        
+
+    
 
         
         
