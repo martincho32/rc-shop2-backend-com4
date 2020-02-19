@@ -130,7 +130,7 @@
             "description": "Smart TV OLED (Android TV) 65\" 4K. HDR UHD (3840 x 2160). Potencia 10w + 10w. Sonido Dolby, DTS Digital Surround,Clear Audio+. Wi Fi. HDMI x 4. Bluetooth 4.1. USB x 3. Soporte de sobremesa, Baterías, control remoto, instrucciones, cable de alimentación.",
             "price": "204000",
             "discountPercentage": "0.10",
-            "category": "Smart TV",
+            "category": "smart tv",
             "features": {
                 "inches": 75,
                 "screenType": "Led",
@@ -153,7 +153,7 @@
             "description": "Smart TV (Android TV) 75\" 4K HDR UHD (3840 x 2160). Potencia 10w + 10w. Sonido Dolby, DTS Digital Surround,Clear Audio+. Wi Fi. HDMI x 4. Bluetooth 4.1. USB x 3. Soporte de sobremesa, Baterías, control remoto, instrucciones, cable de alimentación.",
             "price": "304000",
             "discountPercentage": "0.0",
-            "category": "Smart TV",
+            "category": "smart tv",
             "features": [
                 {
                     "inches": 75,
@@ -280,7 +280,7 @@
               "images": [
                 {
                   "title": "Philips 49",
-                  "path": "/img/tvsmar.jpg"
+                  "path": "/img/tvsmart.jpg"
                 },
                 {
                   "title": "Philips 49",
@@ -590,15 +590,15 @@
             "images": [
               {
                 "title": "A10",
-                "path": "/img/cel22.png"
+                "path": "/img/cel22.jpg"
               },
               {
                 "title": "A10",
-                "path": "/img/cel44.png"
+                "path": "/img/cel44.jpg"
               },
               {
                 "title": "A10",
-                "path": "/img/cel55.png"
+                "path": "/img/cel55.jpg"
               }
             ]
         },
@@ -863,7 +863,7 @@
             ]
         },
         {
-          "brand": "WHIRPOOL",
+          "brand": "WHIRLPOOL",
           "model": "WRA09B1",
           "description": "Nueva línea de heladeras bajo mesada con congelador. Se caracteriza por su diseño vintage (basado en los años 50) con tecnología contemporánea",
           "price": "29899",
@@ -879,16 +879,16 @@
             },
             "images": [
               {
-                "title": "WHIRPOOL",
-                "path": "/img/whirpool.jpg"
+                "title": "WHIRLPOOL",
+                "path": "/img/whirlpool.jpg"
               },
               {
-                "title": "WHIRPOOL",
-                "path": "/img/whirpool-3.png"
+                "title": "WHIRLPOOL",
+                "path": "/img/whirlpool-3.png"
               },
               {
-                "title": "WHIRPOOL",
-                "path": "/img/whirpool-2.jpg"
+                "title": "WHIRLPOOL",
+                "path": "/img/whirlpool-2.jpg"
               }
             ]
         },
