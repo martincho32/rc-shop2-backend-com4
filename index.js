@@ -1,12 +1,12 @@
 const express = require('express');
 const Product = require('./model/products');
+const email = require('./routes/email');
 const app = express();
 const port = 8080;
 
 app.use(express.json());
-
 app.use('/img', express.static(__dirname + '/img'));
-
+app.use('/email', email);
 
 //Get
 app.get('/api/products', async function (req, res) {
