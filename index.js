@@ -1,5 +1,5 @@
 const express = require('express');
-const Product = require('./products');
+const Product = require('./model/products');
 const app = express();
 const port = 8080;
 
