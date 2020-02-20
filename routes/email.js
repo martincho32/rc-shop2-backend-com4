@@ -2,24 +2,24 @@ const express = require('express');
 const router = express.Router();
 const cors = require('cors'); //needed to disable sendgrid security
 const sgMail = require('@sendgrid/mail'); //sendgrid library to send emails 
-const Subscriptors = require("../model/subscriptors");
+const EmailList = require("../model/emailList");
 
 router.use(cors()); //so the browser doesn't restrict data, without it Sendgrid will not send
 sgMail.setApiKey('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');//api key
 
-router.get('/api/subscriptors', async function (req, res) {
+router.get('/emailList', async function (req, res) {
   try {
-    const subscriptors = await Subscriptors.find();
-    res.send(subscriptors);
+    const emails = await EmailList.find();
+    res.send(emails);
   }
   catch (e) {
     res.status(500).send(e);
   }
 });
 
-router.post('/api/subscriptors', async function (req, res) {
+router.post('/emailList', async function (req, res) {
   try {
-    const email = await Subscriptors.create(req.body);
+    const email = await EmailList.create(req.body);
     res.send(email);
   }
   catch (e) {
@@ -27,19 +27,28 @@ router.post('/api/subscriptors', async function (req, res) {
   }
 });
 
-router.post('/api/send-email', async function (req, res) {
+router.post('/send-email', async function (req, res) {
   try {
-    const subscriptors = await Subscriptors.find(req.body);
+    const dbemails = await EmailList.find();
+    const email = req.body;
+    let flag = false;
 
-    if (subscriptors) {
+    dbemails.forEach(p => {
+      if (p.email == email.email) {
+        flag = true
+      } return flag;
+    });
+
+    if (flag) {
       res.send('Ya estas subscripto a nuestras ultimas noticias')
     }
     else {
-      const email = await Subscriptors.create(req.body);
-      res.send("Email : " + email+ " was added to Subscriptors collection");
-      
+
+      const email = await EmailList.create(req.body);
+      res.send("Email : " + email.email + " was added to EmailList collection");
+
       const msg = { //Sendgrid Data Requirements
-        to: req.body,
+        to: email.email,
         from: "giomanconi@hotmail.com", //should come from backend
         subject: "Rolling Shop", //should come from backend
         text: "Gracias por suscribirte" //should come from backend
