@@ -8,11 +8,22 @@ app.use(express.json());
 app.use('/img', express.static(__dirname + '/img'));
 
 
-//Get
-app.get('/api/products', async function (req, res) {
-  try{
-    const products = await Product.find();
-    res.send(products);
+
+//Search by brand (this can be changed to search by other property, we could add a "keywords" property to the schema)
+app.get('/api/products/search', async function(req,res) {
+  try {
+    if(req.query.brand){
+      const regex = new RegExp(req.query.brand, 'gi');
+      const products = await Product.find({brand: regex})
+      res.send(products);
+    }
+    else{
+      console.log('hola mundo')
+      const regex = new RegExp(req.query.category, 'gi');
+      const products = await Product.find({category: regex})
+      res.send(products);
+    }
+    
   }
   catch (e) {
     res.status(500).send(e);
@@ -31,17 +42,17 @@ app.get('/api/products/:itemId', async function (req, res) {
   }
 });
 
-//Search by brand (this can be changed to search by other property, we could add a "keywords" property to the schema)
-app.get('/api/products/search', async function(req,res) {
-  try {
-    const regex = new RegExp(req.query.brand, 'gi');
-    const products = await Product.find({brand: regex})
+//Get
+app.get('/api/products', async function (req, res) {
+  try{
+    const products = await Product.find();
     res.send(products);
   }
   catch (e) {
     res.status(500).send(e);
   }
 });
+
 
 //Post
 app.post('/api/products', async function (req, res) {
