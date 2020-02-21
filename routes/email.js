@@ -5,7 +5,7 @@ const sgMail = require('@sendgrid/mail'); //sendgrid library to send emails
 const EmailList = require("../model/emailList");
 
 router.use(cors()); //so the browser doesn't restrict data, without it Sendgrid will not send
-sgMail.setApiKey('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');//api key
+//sgMail.setApiKey('');//api key
 
 router.get('/emailList', async function (req, res) {
   try {
@@ -49,9 +49,9 @@ router.post('/send-email', async function (req, res) {
 
       const msg = { //Sendgrid Data Requirements
         to: email.email,
-        from: "giomanconi@hotmail.com", //should come from backend
-        subject: "Rolling Shop", //should come from backend
-        text: "Gracias por suscribirte" //should come from backend
+        from: "",//"SG. rollingshop@webbamail.com",113-RPxGVDJwBpEWCjhFzsHwQv6MkrWi78 // https://temp-mail.org/en/ emiwWnUnTpa7MmpRaIdyJg.lNvU0mSTa
+        subject: "Rolling Shop", 
+        text: "Gracias por suscribirte"
       }
 
       sgMail.send(msg)//Send Email
