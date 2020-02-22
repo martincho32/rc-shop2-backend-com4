@@ -1,4 +1,4 @@
-const mongoose = require('./connection');
+const mongoose = require('../connection');
 
 //defino el esquema 
 const productSchema = new mongoose.Schema({

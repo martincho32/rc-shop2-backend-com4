@@ -1,12 +1,12 @@
 const express = require('express');
-const Product = require('./products');
+const Product = require('./model/products');
+const email = require('./routes/email');
 const app = express();
 const port = 8080;
 
 app.use(express.json());
-
 app.use('/img', express.static(__dirname + '/img'));
-
+app.use('/email', email);
 
 
 //Search by brand (this can be changed to search by other property, we could add a "keywords" property to the schema)
@@ -64,7 +64,6 @@ app.post('/api/products', async function (req, res) {
     res.status(500).send(e);
   }
 });
-
 
 app.listen(port, function() {
     console.log(`Server listening on port ${port}...`);
