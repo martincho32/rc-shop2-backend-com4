@@ -1,5 +1,5 @@
 const json = require('./itemsForDB.json');
-const Product = require('./products');
+const Product = require('../model/products');
 /*
  - To Insert JSON file into DB type 'npm run insert'
  - You need to have the server running for this to work
