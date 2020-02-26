@@ -18,7 +18,6 @@ app.get('/api/products/search', async function(req,res) {
       res.send(products);
     }
     else{
-      console.log('hola mundo')
       const regex = new RegExp(req.query.category, 'gi');
       const products = await Product.find({category: regex})
       res.send(products);
