@@ -5,7 +5,7 @@ const sgMail = require('@sendgrid/mail'); //sendgrid library to send emails
 const EmailList = require("../model/emailList");
 
 router.use(cors()); //so the browser doesn't restrict data, without it Sendgrid will not send
-sgMail.setApiKey('SG.113-RPxGVDJwBpEWCjhFzsHwQv6MkrWi78emiwWnUnTpa7MmpRaIdyJg.lNvU0mSTa');//api key
+sgMail.setApiKey('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');//api key
 
 router.get('/emailList', async function (req, res) {
   try {
@@ -49,9 +49,9 @@ router.post('/send-email', async function (req, res) {
 
       const msg = { //Sendgrid Data Requirements
         to: email.email,
-        from: "giomanconi@hotmail.com",//"SG. rollingshop@webbamail.com",113-RPxGVDJwBpEWCjhFzsHwQv6MkrWi78 // https://temp-mail.org/en/ emiwWnUnTpa7MmpRaIdyJg.lNvU0mSTa
+        from: "rollingshop@nuevomail.com",//"SG. rollingshop@webbamail.com",113-RPxGVDJwBpEWCjhFzsHwQv6MkrWi78 // https://temp-mail.org/en/ emiwWnUnTpa7MmpRaIdyJg.lNvU0mSTa
         subject: "Rolling Shop", 
-        text: "Gracias por suscribirte"
+        text: "Gracias por suscribirte, Pronto estaras recibiendo nuestras ultimas novedades"
       }
 
       sgMail.send(msg)//Send Email
