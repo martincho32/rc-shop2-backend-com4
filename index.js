@@ -78,6 +78,7 @@ app.post('/api/products', async function (req, res) {
   }
 });
 
+
 app.listen(port, function() {
     console.log(`Server listening on port ${port}...`);
   });

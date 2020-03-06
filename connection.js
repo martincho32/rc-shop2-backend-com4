@@ -2,6 +2,6 @@
 const mongoose = require('mongoose');
 
 //conectamos a la base de datos
-mongoose.connect('mongodb://localhost:27017/ecommerceDB', {useNewUrlParser:true});
+mongoose.connect('mongodb://localhost:27017/ecommerceDB', {useNewUrlParser:true, useUnifiedTopology: true });
 
 module.exports = mongoose;
